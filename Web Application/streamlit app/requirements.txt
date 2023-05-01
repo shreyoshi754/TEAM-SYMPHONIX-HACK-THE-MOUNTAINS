@@ -1,7 +1,7 @@
 absl-py==0.8.1
 alabaster==0.7.12
 altair==4.1.0
-Flask==1.1.1
+Flask==2.3.2
 html5lib==1.0.1
 imageio==2.6.0
 imagesize==1.1.0
